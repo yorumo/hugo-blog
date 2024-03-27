@@ -34,7 +34,7 @@ copyright = "&copy; Copyright 2024, yorumo"
   description = "Your meta description"      # Your meta description of the site
   header_title = "メモを書いておくページ"                 # Your header title
   header_subtitle = "勉強のメモとか" # Your header subtitle
-  home_image = "/images/avatar.png"          # Path to header image starting from the static directory (optional)
+  home_image = "/images/icon.jpeg"          # Path to header image starting from the static directory (optional)
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
   [params.style]                             # CSS style overrides
