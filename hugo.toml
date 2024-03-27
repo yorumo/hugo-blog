@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://yorumo.github.io/hugo-blog/"
 title = "メモを書いておくページ"
 languageCode = "en-us"
 theme = "devise"
